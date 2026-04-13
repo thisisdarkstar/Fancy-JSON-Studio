@@ -1,10 +1,25 @@
-# Allow all bots to crawl
+# Robots.txt for Fancy JSON Studio
+# JSON Diff, JSON Editor, JSON Viewer, JSON Tree Visualizer, JSON Workspace
+
+# Allow all bots
 User-agent: *
 Allow: /
 
-# Specific crawl delays
+# Specific crawl delays to avoid overload
 Crawl-delay: 1
 Request-rate: 30/60
 
+# High priority pages
+Allow: /
+
 # Sitemap location
 Sitemap: https://fancy-json-studio.vercel.app/sitemap.xml
+
+# Specific rules for common bots
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1

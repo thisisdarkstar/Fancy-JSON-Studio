@@ -1,27 +1,44 @@
-# Fancy JSON Studio
+# JSON Studio: Free Online JSON Diff, Editor, Viewer & Tree Visualizer
 
 A powerful, free online JSON tool for viewing, comparing, formatting, and analyzing JSON files with an intuitive interface and advanced diff capabilities. Perfect for developers, data engineers, and anyone working with JSON data.
 
-**Fancy JSON Studio** is your go-to JSON viewer, formatter, and comparator. Whether you need to visualize complex JSON structures, compare API responses, or debug configuration files, this tool provides everything you need in a sleek, modern interface.
+**Fancy JSON Studio** is your go-to **JSON diff**, **JSON editor**, **JSON viewer**, and **JSON tree visualizer** workspace. Whether you need to compare two JSON files, edit JSON online, visualize complex tree structures, or analyze API responses, this tool provides everything you need in a sleek, modern interface.
 
 ## Key Features
 
-- **JSON Viewer & Tree Explorer**: Beautiful, interactive tree view for exploring deep JSON structures with expand/collapse controls
+### JSON Diff
 - **Side-by-Side JSON Comparison**: Compare two JSON files with detailed diff highlighting and change tracking
 - **Advanced Diff Filtering**: Filter diff results by changes only, added fields, removed fields, or view all changes
-- **Drag & Drop File Upload**: Simply drag JSON files into the application to instantly load and preview them
-- **Raw JSON Preview**: View formatted or minified JSON in raw text mode with syntax highlighting
+- **Deep Diff Analysis**: Recursively compares nested JSON structures with precision
+
+### JSON Editor
 - **Monaco Code Editor**: Edit JSON directly with full syntax highlighting, validation, and error detection
+- **Real-time Validation**: Instant feedback on JSON syntax and formatting
+- **Copy/Paste Support**: Seamlessly work with JSON data from any source
+
+### JSON Viewer & Visualizer
+- **Interactive Tree View**: Beautiful, interactive tree structure for exploring deep JSON hierarchies
+- **JSON Tree Visualization**: Expandable/collapsible nodes for easy navigation of complex structures
+- **Visual JSON Format**: See your data structure at a glance with hierarchical visualization
+
+### JSON Workspace
+- **Drag & Drop File Upload**: Simply drag JSON files into the application to instantly load and preview them
+- **Dual Pane Workspace**: Work with two JSON files simultaneously in a side-by-side workspace
+- **Raw JSON Preview**: View formatted or minified JSON in raw text mode with syntax highlighting
+
+### Additional Features
 - **Light & Dark Theme**: Automatic system preference detection with manual theme toggle for comfortable viewing
 - **Responsive Web Design**: Works seamlessly on desktop, tablet, and mobile devices
 - **Privacy-First & Secure**: Completely client-side application - your data never leaves your browser, no server uploads
 - **Zero Dependencies**: No backend required, no registration, no ads
+- **JSON Formatter**: Beautify and format JSON automatically
+- **JSON Analyzer**: Get insights into your JSON data structure and content
 
 ## Live Demo
 
 [Try Fancy JSON Studio Now](https://fancy-json-studio.vercel.app/)
 
-Free online JSON tool. No sign-up required.
+Free online JSON tool. No sign-up required. Perfect for JSON diff, JSON editing, JSON viewing, and JSON tree visualization.
 
 ## Tech Stack
 
