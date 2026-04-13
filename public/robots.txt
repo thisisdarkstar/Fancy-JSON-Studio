@@ -1,0 +1,10 @@
+# Allow all bots to crawl
+User-agent: *
+Allow: /
+
+# Specific crawl delays
+Crawl-delay: 1
+Request-rate: 30/60
+
+# Sitemap location
+Sitemap: https://fancy-json-studio.vercel.app/sitemap.xml

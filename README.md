@@ -1,22 +1,27 @@
 # Fancy JSON Studio
 
-A powerful, modern web application for viewing, comparing, and analyzing JSON files with an intuitive interface and advanced diff capabilities.
+A powerful, free online JSON tool for viewing, comparing, formatting, and analyzing JSON files with an intuitive interface and advanced diff capabilities. Perfect for developers, data engineers, and anyone working with JSON data.
 
-## Features
+**Fancy JSON Studio** is your go-to JSON viewer, formatter, and comparator. Whether you need to visualize complex JSON structures, compare API responses, or debug configuration files, this tool provides everything you need in a sleek, modern interface.
 
-- **JSON Viewing**: Beautiful, interactive tree view for exploring JSON structures
-- **Side-by-Side Comparison**: Compare two JSON files with detailed diff highlighting
-- **Advanced Filtering**: Filter diff results by changes, added fields, or removed fields
-- **Drag & Drop**: Simply drag JSON files into the application to load them
-- **Raw Preview**: View JSON in raw formatted or compact modes
-- **Monaco Editor**: Edit JSON directly with full syntax highlighting and validation
-- **Theme Support**: Light and dark modes with automatic system preference detection
-- **Responsive Design**: Works seamlessly on desktop and tablet devices
-- **No Backend Required**: Completely client-side application - your data never leaves your browser
+## Key Features
+
+- **JSON Viewer & Tree Explorer**: Beautiful, interactive tree view for exploring deep JSON structures with expand/collapse controls
+- **Side-by-Side JSON Comparison**: Compare two JSON files with detailed diff highlighting and change tracking
+- **Advanced Diff Filtering**: Filter diff results by changes only, added fields, removed fields, or view all changes
+- **Drag & Drop File Upload**: Simply drag JSON files into the application to instantly load and preview them
+- **Raw JSON Preview**: View formatted or minified JSON in raw text mode with syntax highlighting
+- **Monaco Code Editor**: Edit JSON directly with full syntax highlighting, validation, and error detection
+- **Light & Dark Theme**: Automatic system preference detection with manual theme toggle for comfortable viewing
+- **Responsive Web Design**: Works seamlessly on desktop, tablet, and mobile devices
+- **Privacy-First & Secure**: Completely client-side application - your data never leaves your browser, no server uploads
+- **Zero Dependencies**: No backend required, no registration, no ads
 
 ## Live Demo
 
-[Try Fancy JSON Studio](https://thisisdarkstar.github.io/Fancy-JSON-Studio/)
+[Try Fancy JSON Studio Now](https://fancy-json-studio.vercel.app/)
+
+Free online JSON tool. No sign-up required.
 
 ## Tech Stack
 
