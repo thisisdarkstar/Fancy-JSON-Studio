@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="jsonStudioBg" x1="12" y1="8" x2="54" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#18314f" />
+      <stop offset="0.5" stop-color="#0f2036" />
+      <stop offset="1" stop-color="#132840" />
+    </linearGradient>
+    <linearGradient id="jsonStudioAccent" x1="21" y1="18" x2="46" y2="46" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8ec8ff" />
+      <stop offset="1" stop-color="#69e2dd" />
+    </linearGradient>
+    <linearGradient id="jsonStudioLines" x1="31" y1="22" x2="44" y2="47" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffb27a" />
+      <stop offset="1" stop-color="#8ec8ff" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="18" fill="url(#jsonStudioBg)" />
+  <path d="M22 16c-4.6 0-7 2.5-7 7.4v4.3c0 3.6-1.7 5.9-5 7 3.3 1.1 5 3.4 5 7v4.3c0 4.9 2.4 7.4 7 7.4" stroke="url(#jsonStudioAccent)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M42 16c4.6 0 7 2.5 7 7.4v4.3c0 3.6 1.7 5.9 5 7-3.3 1.1-5 3.4-5 7v4.3c0 4.9-2.4 7.4-7 7.4" stroke="url(#jsonStudioAccent)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="28" cy="24" r="2.4" fill="#8ec8ff" />
+  <circle cx="28" cy="34" r="2.4" fill="#69e2dd" />
+  <circle cx="28" cy="44" r="2.4" fill="#ffb27a" />
+  <path d="M34 24h8" stroke="url(#jsonStudioLines)" stroke-width="3.5" stroke-linecap="round" />
+  <path d="M34 34h6" stroke="url(#jsonStudioLines)" stroke-width="3.5" stroke-linecap="round" />
+  <path d="M34 44h10" stroke="url(#jsonStudioLines)" stroke-width="3.5" stroke-linecap="round" />
+</svg>
